@@ -1,0 +1,15 @@
+ItemID,ItemName,SupplierID,SupplierName,PalletsOrdered,UnitsOrdered,CostPerPallet,TotalCost
+2,Item B,1,Supplier A,6,144,520,3120.0
+3,Item C,3,Supplier C,2,48,470,940.0
+4,Item D,4,Supplier D,5,120,505,2525.0
+5,Item E,4,Supplier D,2,48,480,960.0
+6,Item F,5,Supplier E,4,96,540,2160.0
+7,Item G,5,Supplier E,2,48,530,1060.0
+8,Item H,1,Supplier A,3,72,550,1650.0
+9,Item I,2,Supplier B,7,168,580,4060.0
+10,Item J,3,Supplier C,3,72,560,1680.0
+11,Item K,4,Supplier D,3,72,590,1770.0
+12,Item L,5,Supplier E,6,144,610,3660.0
+13,Item M,5,Supplier E,1,24,620,620.0
+14,Item N,5,Supplier E,2,48,600,1200.0
+15,Item O,5,Supplier E,2,48,630,1260.0
